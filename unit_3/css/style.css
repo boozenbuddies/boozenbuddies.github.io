@@ -10,7 +10,7 @@ img {
 }
 h1 {
     font-family: Avant Garde, Verdana, sans-serif;
-    font-color: #8B0000;
+    font-color: #990000;
     font-size: 50px;
     font-weight: bold;   
 }
@@ -34,6 +34,6 @@ ul {
     color: #008080;
 }
 #second {
-    font-size: 12px;
-    font-family: Brush Script, sans-serif
+    font-size: 20px;
+    font-family: Brush Script, Avant Garde, sans-serif;
 }
