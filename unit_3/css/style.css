@@ -1,0 +1,39 @@
+body {
+    text-align: center;
+    background: #FDF5E6;
+    color: black;
+    font-size: 12px;
+    font-family: Verdana, Geneva, sans-serif;
+}
+img {
+    width: 800px;
+}
+h1 {
+    font-family: Avant Garde, Verdana, sans-serif;
+    font-color: #8B0000;
+    font-size: 50px;
+    font-weight: bold;   
+}
+#slogan {
+    color: #7A7A7A;
+    font-style: italic;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 36px;
+}
+p {
+    text-align: center;
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 24px;
+}
+ul {
+	list-style-type: none;
+    font-size: 18px;
+    color: #008080;
+}
+#second {
+    font-size: 12px;
+    font-family: Brush Script, sans-serif
+}
