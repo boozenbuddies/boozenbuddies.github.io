@@ -9,11 +9,12 @@ body {
 h1 {
     font-family: 'Alex Brush', cursive;
     font-color: #990000;
-    font-size: 50px;
+    font-size: 62px;
     font-weight: bold;   
 }
 #slogan {
     color: #7A7A7A;
+    font-family: 'Quicksand', sans-serif;
     font-style: italic;
     text-align: center;
     font-weight: bolder;
