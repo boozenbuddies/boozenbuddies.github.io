@@ -2,19 +2,19 @@ body {
     text-align: center;
     background: #FDF5E6;
     color: black;
-    font-size: 12px;
+    font-size: 16px;
     font-family: Verdana, Geneva, sans-serif;
 }
 
 h1 {
     font-family: 'Alex Brush', cursive;
     font-color: #990000;
-    font-size: 62px;
+    font-size: 78px;
     font-weight: bold;   
 }
 #slogan {
     color: #7A7A7A;
-    font-family: 'Quicksand', sans-serif;
+    font-family: 'Italiana', serif; 
     font-style: italic;
     text-align: center;
     font-weight: bolder;
