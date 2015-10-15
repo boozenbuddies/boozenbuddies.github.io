@@ -2,7 +2,7 @@ body {
     text-align: center;
     background: #f4f7f0;
     color: black;
-    font-size: 16px;
+    font-size: 18px;
     font-family: Verdana, Geneva, sans-serif;
 }
 
@@ -38,6 +38,12 @@ p {
     margin-right: auto;
     font-size: 24px;
 }
+
+h2 {
+    font-family: 'Alex Brush', cursive;
+    font-size: 24;
+}
+
 ul {
 	list-style-type: none;
     font-size: 18px;
