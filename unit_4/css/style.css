@@ -2,7 +2,7 @@ body {
     text-align: center;
     background: #f4f7f0;
     color: black;
-    width: 800px;
+    width: 700px;
     font-size: 22px;
     font-family: Verdana, Geneva, sans-serif;
 }
@@ -27,7 +27,7 @@ img {
     font-style: italic;
     font-weight: normal;
     font-size: 52px;
-    width: 1600px;
+    width: 1200px;
 }
 
 p {
