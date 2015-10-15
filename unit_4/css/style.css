@@ -4,6 +4,7 @@ body {
     color: black;
     font-size: 22px;
     font-family: Verdana, Geneva, sans-serif;
+    max-width: 1200px;
 }
 
 h1 {
