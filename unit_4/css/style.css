@@ -2,6 +2,7 @@ body {
     text-align: center;
     background: #f4f7f0;
     color: black;
+    width: 1200px;
     font-size: 22px;
     font-family: Verdana, Geneva, sans-serif;
 }
@@ -28,13 +29,12 @@ img {
     font-weight: normal;
     font-size: 52px;
     text-align: center;
-    width: 2800px;
+    width: 3200px;
 }
 
 p {
     font-family: 'Belleza', sans-serif;
     text-align: center;
-    width: 600px;
     margin-left: auto;
     margin-right: auto;
     font-size: 32px;
@@ -54,5 +54,4 @@ ul {
 }
 #second {
     font-size: 36px;
-    width: 1200px;
 }
