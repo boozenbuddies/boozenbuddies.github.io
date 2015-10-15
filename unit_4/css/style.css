@@ -28,7 +28,7 @@ img {
     font-weight: normal;
     font-size: 52px;
     text-align: center;
-    width: 3200px;
+    width: 2800px;
 }
 
 p {
@@ -54,4 +54,5 @@ ul {
 }
 #second {
     font-size: 36px;
+    width: 1200;
 }
