@@ -41,11 +41,12 @@ p {
 
 h2 {
     font-family: 'Alex Brush', cursive;
-    font-size: 48;
+    font-size: 60;
 }
 
 ul {
-	list-style-type: none;
+	font-family: 'Abril Fatface', cursive;
+    list-style-type: none;
     color: #008080;
 }
 #second {
