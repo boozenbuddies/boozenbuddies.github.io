@@ -41,7 +41,6 @@ h2 {
 }
 
 ul {
-    border: #DAA520 solid thin 20px;
 	font-family: 'Abril Fatface', cursive;
     list-style-type: none;
     color: #008080;
@@ -49,5 +48,5 @@ ul {
 
 #second {
     font-size: 36px;
-    width: 800px;
+    width: 600px;
 }
