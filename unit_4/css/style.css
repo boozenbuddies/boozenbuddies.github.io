@@ -2,7 +2,7 @@ body {
     text-align: center;
     background: #f4f7f0;
     color: black;
-    width: 1000px;
+    width: 800px;
     font-size: 22px;
     font-family: Verdana, Geneva, sans-serif;
 }
@@ -25,18 +25,13 @@ img {
     font-family: 'Abril Fatface', cursive;
     font-variant: caps;
     font-style: italic;
-    text-align: center;
     font-weight: normal;
     font-size: 52px;
-    text-align: center;
     width: 2400px;
 }
 
 p {
     font-family: 'Belleza', sans-serif;
-    text-align: center;
-    margin-left: auto;
-    margin-right: auto;
     font-size: 32px;
 }
 
@@ -52,6 +47,7 @@ ul {
     list-style-type: none;
     color: #008080;
 }
+
 #second {
     font-size: 36px;
 }
