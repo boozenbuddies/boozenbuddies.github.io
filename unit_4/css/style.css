@@ -46,6 +46,7 @@ h2 {
 }
 
 ul {
+    outline: #00FF00 groove thin 20px;
 	font-family: 'Abril Fatface', cursive;
     list-style-type: none;
     color: #008080;
