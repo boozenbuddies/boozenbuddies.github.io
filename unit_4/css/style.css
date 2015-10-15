@@ -21,12 +21,13 @@ img {
 
 #slogan {
     color: #7A7A7A;
-    font-family: 'Forum', cursive;
+    font-family: 'Belleza', sans-serif;
+    font-stretch: expanded;
     font-variant: small-caps;
     font-style: italic;
     text-align: center;
     font-weight: normal;
-    font-size: 48px;
+    font-size: 52px;
 }
 p {
     text-align: center;
