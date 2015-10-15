@@ -2,7 +2,6 @@ body {
     text-align: center;
     background: #f4f7f0;
     color: black;
-    width: 900px;
     font-size: 22px;
     font-family: Verdana, Geneva, sans-serif;
 }
@@ -33,6 +32,7 @@ img {
 p {
     font-family: 'Belleza', sans-serif;
     font-size: 32px;
+    width: 900px;
 }
 
 h2 {
@@ -46,8 +46,10 @@ ul {
 	font-family: 'Abril Fatface', cursive;
     list-style-type: none;
     color: #008080;
+    width: 900px;
 }
 
 #second {
     font-size: 36px;
+    width: 900px;
 }
