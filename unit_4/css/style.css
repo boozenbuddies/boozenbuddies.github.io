@@ -2,7 +2,7 @@ body {
     text-align: center;
     background: #f4f7f0;
     color: black;
-    width: 1200px;
+    width: 1000px;
     font-size: 22px;
     font-family: Verdana, Geneva, sans-serif;
 }
@@ -29,7 +29,7 @@ img {
     font-weight: normal;
     font-size: 52px;
     text-align: center;
-    width: 3200px;
+    width: 2400px;
 }
 
 p {
