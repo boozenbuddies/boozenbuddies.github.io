@@ -2,8 +2,25 @@ body {
     text-align: center;
     background: #f4f7f0;
     color: black;
-    font-size: 22px;
-    font-family: Verdana, Geneva, sans-serif;
+    font-size: 24px;
+    font-family: 'Belleza', sans-serif;
+}
+
+header {
+    position: absolute;
+    top: 20px;
+    width: 100%;
+    padding: .5em;
+    text-align: center;
+}
+
+#logo {
+    border-radius: 5px;
+    margin: 0 auto;
+}
+
+#headertext {
+    float: left;
 }
 
 h1 {
@@ -29,7 +46,6 @@ img {
 }
 
 p {
-    font-family: 'Belleza', sans-serif;
     font-size: 32px;
 }
 
@@ -45,6 +61,6 @@ ul {
     color: #008080;
 }
 
-#second {
+#visitus {
     font-size: 36px;
 }
