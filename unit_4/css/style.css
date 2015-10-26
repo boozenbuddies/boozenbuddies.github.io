@@ -35,14 +35,13 @@ h1 {
 nav {
     display: block;
     padding: 20px;
-    width: 300px;
+    width: 200px;
     margin: 1.5em auto;
     font-weight: bold;
 }
 
 img {
     display: block;
-    float: center;
     -moz-box-shadow: 3px 3px 4px 5px #000014;
     -webkit-box-shadow: 3px 3px 4px 5px #000014;
     box-shadow: 3px 3px 4px 5px #000014;
