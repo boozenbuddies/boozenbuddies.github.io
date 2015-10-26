@@ -42,8 +42,8 @@ nav {
 }
 
 img {
-    clear:both;
     display: block;
+    margin: 0 auto;
     -moz-box-shadow: 3px 3px 4px 5px #000014;
     -webkit-box-shadow: 3px 3px 4px 5px #000014;
     box-shadow: 3px 3px 4px 5px #000014;
