@@ -32,11 +32,15 @@ h1 {
 }
 
 nav {
-    display: block;
-    padding: 20px;
-    width: 200px;
-    margin: 1.5em auto;
-    font-weight: bold;
+  font-size: 1.5em;
+  float: left;
+}
+
+nav a {
+  text-decoration: none;
+  color: black;
+  margin: 1.8em;
+  display: inline-block;
 }
 
 img {
