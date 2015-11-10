@@ -1,10 +1,13 @@
 nav {
+    font-size: 20px;
     font-family: 'Open Sans Condensed', sans-serif;
     display: block;
     top: 20px;
     width: 100%;
     padding: .5em;
-    text-align: center;    
+    text-align: center;
+    text-transform: uppercase;
+    width: 664px;  
 }
 nav a {
     text-decoration: none;
