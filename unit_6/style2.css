@@ -1,5 +1,14 @@
+body {
+    text-align: center;
+    background: #f4f7f0;
+    color: black;
+    font-size: 24px;
+    font-family: 'Belleza', sans-serif;
+}
+
 nav {
-    font-size: 20px;
+    float: center;
+    font-size: 30px;
     font-family: 'Open Sans Condensed', sans-serif;
     display: block;
     top: 20px;
@@ -9,12 +18,19 @@ nav {
     text-transform: uppercase;
     width: 664px;  
 }
+
 nav a {
-    text-decoration: none;
-    color: rgb(217, 217, 217);
-    padding: .5em 3.5em;
-    font-size: 1em;
-    font-weight: 700;
-    text-align: center;
-    background-color: #87CEFA;
+  text-decoration: none;
+  color: black;
+  margin: 1.8em;
+  display: inline-block;
+
+}
+
+img {
+    display: block;
+    margin: auto;
+    -moz-box-shadow: 3px 3px 4px 5px #000014;
+    -webkit-box-shadow: 3px 3px 4px 5px #000014;
+    box-shadow: 3px 3px 4px 5px #000014;
 }
