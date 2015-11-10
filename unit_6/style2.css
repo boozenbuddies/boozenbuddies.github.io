@@ -1,9 +1,17 @@
 body {
     text-align: center;
-    background: white;
+    background: ;
     color: black;
     font-size: 24px;
     font-family: 'Belleza', sans-serif;
+}
+
+#splash {
+    background: url(http://pubpages.unh.edu/~abd11/puppy.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 90vh;
+    margin-top: 2em;
 }
 
 nav {
