@@ -1,39 +1,83 @@
 body {
     text-align: center;
-    background: #FDF5E6;
+    background: #f4f7f0;
     color: black;
-    font-size: 12px;
-    font-family: Verdana, Geneva, sans-serif;
+    font-size: 24px;
+    font-family: 'Belleza', sans-serif;
 }
-img {
-    width: 800px;
+
+header {
+    display: block;
+    top: 20px;
+    width: 100%;
+    padding: .5em;
+    text-align: center;
 }
+
+#logo {
+    float: right;
+    clear: both;
+    border-radius: 5px;
+    margin: auto;
+}
+
+#headertext {
+    float: center;
+}
+
 h1 {
-    font-family: Avant Garde, Verdana, sans-serif;
-    font-color: #8B0000;
-    font-size: 50px;
+    font-family: 'Alex Brush', cursive;
+    font-color: #990000;
+    font-size: 96px;
     font-weight: bold;   
 }
+
+nav {
+  font-size: 1.5em;
+  float: center;
+}
+
+nav a {
+  text-decoration: none;
+  color: black;
+  margin: 1.8em;
+  display: inline-block;
+}
+
+img {
+    display: block;
+    margin: auto;
+    -moz-box-shadow: 3px 3px 4px 5px #000014;
+    -webkit-box-shadow: 3px 3px 4px 5px #000014;
+    box-shadow: 3px 3px 4px 5px #000014;
+}
+
 #slogan {
+    display: block;
     color: #7A7A7A;
+    font-family: 'Abril Fatface', cursive;
+    font-variant: caps;
     font-style: italic;
-    text-align: center;
-    font-weight: bolder;
-    font-size: 36px;
+    font-weight: normal;
+    font-size: 52px;
 }
+
 p {
-    text-align: center;
-    width: 600px;
-    margin-left: auto;
-    margin-right: auto;
-    font-size: 24px;
+    font-size: 32px;
 }
+
+h2 {
+    font-family: 'Alex Brush', cursive;
+    font-size: 64px;
+    margin-bottom: 1px;
+}
+
 ul {
-	list-style-type: none;
-    font-size: 18px;
+    font-family: 'Abril Fatface', cursive;
+    list-style-type: none;
     color: #008080;
 }
-#second {
-    font-size: 12px;
-    font-family: Brush Script, sans-serif
+
+#visitus {
+    font-size: 36px;
 }
