@@ -4,6 +4,8 @@ body {
     color: black;
     font-size: 24px;
     font-family: 'Belleza', sans-serif;
+    display: block;
+    margin: 8px;
 }
 
 header {
@@ -34,7 +36,7 @@ h1 {
 
 nav {
   font-size: 1.5em;
-  float: center;
+  display: block;
 }
 
 nav a {
@@ -56,7 +58,6 @@ img {
     display: block;
     color: #7A7A7A;
     font-family: 'Abril Fatface', cursive;
-    font-variant: caps;
     font-style: italic;
     font-weight: normal;
     font-size: 52px;
@@ -76,6 +77,12 @@ ul {
     font-family: 'Abril Fatface', cursive;
     list-style-type: none;
     color: #008080;
+    display: block;
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    -webkit-padding-start: 40px;
 }
 
 #visitus {
